@@ -35,4 +35,4 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 <hr/>
 
-Feito Por Guilherme Morais e contribuidores.
+Feito Por Guilherme Morais e colaboradores.
